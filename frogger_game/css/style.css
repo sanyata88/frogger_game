@@ -1,0 +1,73 @@
+body {
+  font-family: 'Averia Libre', cursive;
+  text-align: center;
+  color: #061A74;
+
+}
+
+header {
+  height: 75px;
+  background-color: #1F618D  ;
+
+}
+.choices{
+  background-color: #BFC9CA;
+  text-decoration: underline;
+
+}
+h1 {
+  margin: 0;
+  padding-top: 15px;
+  color: white;
+}
+
+h2 {
+  margin: 0;
+  padding-top: 10px;
+}
+h3{
+  color: #34495E  ;
+}
+
+
+
+#main {
+  width: 50%;
+  padding-left: 160px;
+  margin-left: 160px;
+
+}
+
+
+#players {
+  width: 70%;
+  margin: 0 auto;
+}
+
+#players h2 {
+  margin-bottom: 50px;
+}
+
+.crop {
+  float: left;
+  height: 30%;
+  overflow: hidden;
+  border-radius: 100%;
+}
+
+.crop img {
+  height: 100%;
+  margin-top: -40px;
+  margin-bottom: -10px;
+}
+
+
+
+footer {
+  clear: both;
+  background-color: #BFC9CA;
+  padding: 20px;
+  font-size: 0.7em;
+  color: #061A74;
+  font-weight: bold;
+}
